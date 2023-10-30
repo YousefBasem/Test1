@@ -1,0 +1,2 @@
+mido = 'holaaaa'
+print(mido)
